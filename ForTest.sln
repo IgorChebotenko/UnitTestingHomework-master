@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForTest", "ForTest\ForTest.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{07627045-421D-45F2-80F2-B0FE5C2A432C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic.Tests", "Logic.Tests\Logic.Tests.csproj", "{B9C183CB-74B8-4869-8995-1AC4FB38A045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic.Tests", "Logic.Tests\Logic.Tests.csproj", "{9CFF8DCC-D623-4B20-B4A5-8729713AF33C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{07627045-421D-45F2-80F2-B0FE5C2A432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07627045-421D-45F2-80F2-B0FE5C2A432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07627045-421D-45F2-80F2-B0FE5C2A432C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B9C183CB-74B8-4869-8995-1AC4FB38A045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9C183CB-74B8-4869-8995-1AC4FB38A045}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9C183CB-74B8-4869-8995-1AC4FB38A045}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9C183CB-74B8-4869-8995-1AC4FB38A045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFF8DCC-D623-4B20-B4A5-8729713AF33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFF8DCC-D623-4B20-B4A5-8729713AF33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFF8DCC-D623-4B20-B4A5-8729713AF33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFF8DCC-D623-4B20-B4A5-8729713AF33C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
